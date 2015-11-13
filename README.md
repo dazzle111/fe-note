@@ -1,2 +1,5 @@
-# note-angular
-angular学习笔记，参考教程的链接
+# fe-note
+前端学习笔记，欢迎投稿
+
+#### 前端框架
+- [angular](./frameworks/angular.md)
