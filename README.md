@@ -3,3 +3,7 @@
 
 #### 前端框架
 - [angular](./frameworks/angular.md)
+
+
+#### 授权机制
+- [Json Web Token](./standards/jwt.md)
