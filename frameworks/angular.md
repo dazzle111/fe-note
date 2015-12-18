@@ -3,6 +3,7 @@
 
 ### 开发实例
 - [使用Laravel和Angular开发一个投票应用的实例](http://www.codeheaps.com/web-development-2/creating-polling-application-using-angularjs-and-laravel-part-1/)
+- [使用 AngularJS 从零构建大型应用](http://www.v2ex.com/t/168015)
 
 ### 授权登录
 - [JSON Web Token Tutorial: An Example in Laravel and AngularJS](http://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs)
@@ -10,6 +11,7 @@
 
 ### 开发技巧
 - [为AngularJS应用添加全局Loading动画](http://www.blog123.cc/article/wei-angularjsying-yong-tian-jia-quan-ju-loadingdong-hua/)
+- [Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
 
 
 ### 组件集合
